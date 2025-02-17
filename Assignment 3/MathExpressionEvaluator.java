@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.regex.*;
 
-public class TestMathExpr {
+public class MathExpressionEvaluator {
 
     private static final Map<String, Integer> precedence = new HashMap<>();
 
